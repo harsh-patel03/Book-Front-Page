@@ -1,0 +1,19 @@
+<svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="36" height="36" fill="#1E1E1E"/>
+<g id="Desktop - 1" clip-path="url(#clip0_0_1)">
+<rect width="1440" height="1024" transform="translate(-354 -89)" fill="white"/>
+<g id="Logo">
+<g id="fa-solid:paper-plane" clip-path="url(#clip1_0_1)">
+<path id="Vector" d="M33.4687 0.224994L0.878901 19.0266C-0.393755 19.7578 -0.232036 21.5297 1.03359 22.0641L8.50781 25.2L28.7086 7.39687C29.0953 7.05234 29.6437 7.57968 29.3133 7.98046L12.375 28.6172V34.2773C12.375 35.9367 14.3789 36.5906 15.3633 35.3883L19.8281 29.9531L28.5891 33.6234C29.5875 34.0453 30.7266 33.4195 30.9094 32.3437L35.9719 1.96874C36.2109 0.548431 34.6852 -0.478131 33.4687 0.224994Z" fill="#FFD233"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="1440" height="1024" fill="white" transform="translate(-354 -89)"/>
+</clipPath>
+<clipPath id="clip1_0_1">
+<rect width="36" height="36" fill="white"/>
+</clipPath>
+</defs>
+</svg>
